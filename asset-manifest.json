@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sitematching/static/css/main.1124fcef.chunk.css",
-    "main.js": "/sitematching/static/js/main.8300710b.chunk.js",
-    "main.js.map": "/sitematching/static/js/main.8300710b.chunk.js.map",
-    "runtime-main.js": "/sitematching/static/js/runtime-main.d5a27362.js",
-    "runtime-main.js.map": "/sitematching/static/js/runtime-main.d5a27362.js.map",
-    "static/css/2.69ac34f2.chunk.css": "/sitematching/static/css/2.69ac34f2.chunk.css",
-    "static/js/2.1a04cbf4.chunk.js": "/sitematching/static/js/2.1a04cbf4.chunk.js",
-    "static/js/2.1a04cbf4.chunk.js.map": "/sitematching/static/js/2.1a04cbf4.chunk.js.map",
-    "index.html": "/sitematching/index.html",
-    "precache-manifest.2598bdb134d900bdbd4e3a3dabec06a3.js": "/sitematching/precache-manifest.2598bdb134d900bdbd4e3a3dabec06a3.js",
-    "service-worker.js": "/sitematching/service-worker.js",
-    "static/css/2.69ac34f2.chunk.css.map": "/sitematching/static/css/2.69ac34f2.chunk.css.map",
-    "static/css/main.1124fcef.chunk.css.map": "/sitematching/static/css/main.1124fcef.chunk.css.map",
-    "static/js/2.1a04cbf4.chunk.js.LICENSE.txt": "/sitematching/static/js/2.1a04cbf4.chunk.js.LICENSE.txt"
+    "main.css": "/sitematching-frontend/static/css/main.1124fcef.chunk.css",
+    "main.js": "/sitematching-frontend/static/js/main.f68fa549.chunk.js",
+    "main.js.map": "/sitematching-frontend/static/js/main.f68fa549.chunk.js.map",
+    "runtime-main.js": "/sitematching-frontend/static/js/runtime-main.c34dee7a.js",
+    "runtime-main.js.map": "/sitematching-frontend/static/js/runtime-main.c34dee7a.js.map",
+    "static/css/2.69ac34f2.chunk.css": "/sitematching-frontend/static/css/2.69ac34f2.chunk.css",
+    "static/js/2.1a04cbf4.chunk.js": "/sitematching-frontend/static/js/2.1a04cbf4.chunk.js",
+    "static/js/2.1a04cbf4.chunk.js.map": "/sitematching-frontend/static/js/2.1a04cbf4.chunk.js.map",
+    "index.html": "/sitematching-frontend/index.html",
+    "precache-manifest.af2dc3f6e4e9ed507761564d2f2cbbf8.js": "/sitematching-frontend/precache-manifest.af2dc3f6e4e9ed507761564d2f2cbbf8.js",
+    "service-worker.js": "/sitematching-frontend/service-worker.js",
+    "static/css/2.69ac34f2.chunk.css.map": "/sitematching-frontend/static/css/2.69ac34f2.chunk.css.map",
+    "static/css/main.1124fcef.chunk.css.map": "/sitematching-frontend/static/css/main.1124fcef.chunk.css.map",
+    "static/js/2.1a04cbf4.chunk.js.LICENSE.txt": "/sitematching-frontend/static/js/2.1a04cbf4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5a27362.js",
+    "static/js/runtime-main.c34dee7a.js",
     "static/css/2.69ac34f2.chunk.css",
     "static/js/2.1a04cbf4.chunk.js",
     "static/css/main.1124fcef.chunk.css",
-    "static/js/main.8300710b.chunk.js"
+    "static/js/main.f68fa549.chunk.js"
   ]
 }
