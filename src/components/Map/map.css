@@ -1,0 +1,10 @@
+.map {
+    height: 500px;
+}
+
+.message-form {
+    z-index: 699;
+    top: 10px;
+    right: 10px;
+    position: absolute;
+}
